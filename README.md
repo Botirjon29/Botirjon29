@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./cover_leverow.png" alt="Leverow"/>
+<img src="./Botirjon.png" alt="Leverow"/>
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Azamjon+Bakhriddinov+👋;.Net+Enthusiast;Nice+to+meet+you!" /> </a> </p>
 
 <div align="center">
