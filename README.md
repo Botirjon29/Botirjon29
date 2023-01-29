@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leverow&theme=dark)](https://github.com/leverow/)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leverow&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/Botirjon29/)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=botirjon29&theme=dark)](https://github.com/botirjon29/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botirjon29&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px&hide=html,css)](https://github.com/Botirjon29/)</div>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Botirjon29&show_icons=true&theme=synthwave" alt="Botirjon :: Profile Stats" /></p>
